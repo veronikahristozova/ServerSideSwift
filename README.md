@@ -5,9 +5,9 @@ Server Side Swift using Kitura, Kitura CouchDB, Helium Logger and SwiftyJSON
 
 ## Getting Started
 
-cd the project
-run swift build
-run .build/debug/SwiftBackend
+1. cd the project
+2. run swift build
+3. run .build/debug/SwiftBackend
 
 or
 
